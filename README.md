@@ -7,3 +7,7 @@ I'm a university student studying software engineering.
 - 🤖 Artificial intelligience
 - 📕 Natural language processing
 - 📊 Data science
+
+## 📈 Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geeyana&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
