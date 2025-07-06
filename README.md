@@ -8,6 +8,12 @@ I'm a university student studying software engineering.
 - 📕 Natural language processing
 - 📊 Data science
 
+## 🤓 Interests
+- 💻 Web/mobile/game applications
+- 📱 UI/UX design
+- 🛠️ Front-end engineering
+- 🎮 Game development
+
 ## 📈 Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geeyana&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
