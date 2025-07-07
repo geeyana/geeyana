@@ -9,7 +9,7 @@ I'm a university student studying software engineering.
 - 📊 Data science
 
 ## 🤓 Interests
-- 💻 Web/mobile/game applications
+- 💻 Web/mobile applications
 - 📱 UI/UX design
 - 🛠️ Front-end engineering
 - 🎮 Game development
