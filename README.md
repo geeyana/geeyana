@@ -4,15 +4,17 @@
 I'm a university student studying software engineering.
 
 ## 📖 Currently Learning
-- 🤖 Artificial intelligience
-- 📕 Natural language processing
-- 📊 Data science
+- 👩‍💻 Data structures
+- 📊 Engineering statistics
+
+## 🎯 Primary Focus
+- 💻 Web/mobile applications
+- 🛠️ Front-end engineering
+- 📱 UI/UX design
 
 ## 🤓 Interests
-- 💻 Web/mobile applications
-- 📱 UI/UX design
-- 🛠️ Front-end engineering
 - 🎮 Game development
+- 🤖 Artificial intelligience
 
 ## 📈 Stats
 
