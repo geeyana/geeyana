@@ -1,7 +1,7 @@
 ![Github](https://github.com/user-attachments/assets/10e78315-2565-4583-a81d-5bbdb4e56d6d)
 
 # Hi! I'm Gianna 👋
-I'm a university student studying software engineering.
+I'm a university student studying software engineering. I like to make things for fun here sometimes (if it's not already a research project).
 
 ## 📖 Currently Learning
 - 👩‍💻 Data structures
