@@ -6,15 +6,16 @@ I'm a university student studying software engineering. I like to make things fo
 ## 📖 Currently Learning
 - 👩‍💻 Data structures
 - 📊 Engineering statistics
+- 💻 Human-computer interaction
 
 ## 🎯 Primary Focus
-- 💻 Web/mobile applications
 - 🛠️ Front-end engineering
 - 📱 UI/UX design
+- 🌐 Web development
 
 ## 🤓 Interests
 - 🎮 Game development
-- 🤖 Artificial intelligience
+- 🤖 Artificial intelligence
 
 ## 📈 Stats
 
