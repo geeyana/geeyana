@@ -1,4 +1,4 @@
-![Github](https://github.com/user-attachments/assets/10e78315-2565-4583-a81d-5bbdb4e56d6d)
+<img width="1584" height="396" alt="Banners" src="https://github.com/user-attachments/assets/e8f3ebff-a838-4afe-9ef9-b3d229757fdc" />
 
 # Hi! I'm Gianna 👋
 I'm a university student studying software engineering. I like to make things for fun here.
