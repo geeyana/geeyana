@@ -1,7 +1,7 @@
 <img width="1584" height="396" alt="Banners" src="https://github.com/user-attachments/assets/e8f3ebff-a838-4afe-9ef9-b3d229757fdc" />
 
 # Hi! I'm Gianna |˶˙ᵕ˙ )ﾉﾞ
-I like to make things for fun here.
+I like to make things for fun here like pretty much everyone else does.
 
 ## ₊˚⊹♡ Currently Learning ⋆ ˚｡⋆୨୧˚
 - ❥ Data structures
