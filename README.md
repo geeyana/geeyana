@@ -3,11 +3,6 @@
 # Hi! I'm Gianna |˶˙ᵕ˙ )ﾉﾞ
 I like to make things for fun here like pretty much everyone else does.
 
-## ₊˚⊹♡ Currently Learning ⋆ ˚｡⋆୨୧˚
-- ❥ Data structures
-- ❥ Engineering statistics
-- ❥ Human-computer interaction
-
 ## ₊˚⊹♡ Primary Focus ⋆ ˚｡⋆୨୧˚
 - ❥ Frontend engineering
 - ❥ UI/UX design
